@@ -98,8 +98,7 @@ class MatriculaTest {
 
      
     // PRUEBA INTEGRAL
-    // Flujo completo con objetos reales: crear matrícula → retirar dentro
-    // del plazo → verificar estado final y fecha de retiro registrada
+    // Flujo completo con objetos reales: crear matrícula → retirar dentro del plazo → verificar estado final y fecha de retiro registrada
      
     @Test
     @DisplayName("PI-01: Flujo completo — matrícula activa y retiro exitoso dentro de los 7 días")
